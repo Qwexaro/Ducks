@@ -1,0 +1,14 @@
+C:\Users\Sergi\source\repos\Ducks\Ducks\bin\Debug\net8.0\Ducks.exe
+C:\Users\Sergi\source\repos\Ducks\Ducks\bin\Debug\net8.0\Ducks.deps.json
+C:\Users\Sergi\source\repos\Ducks\Ducks\bin\Debug\net8.0\Ducks.runtimeconfig.json
+C:\Users\Sergi\source\repos\Ducks\Ducks\bin\Debug\net8.0\Ducks.dll
+C:\Users\Sergi\source\repos\Ducks\Ducks\bin\Debug\net8.0\Ducks.pdb
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.dll
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\refint\Ducks.dll
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.pdb
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\Ducks.genruntimeconfig.cache
+C:\Users\Sergi\source\repos\Ducks\Ducks\obj\Debug\net8.0\ref\Ducks.dll
